@@ -116,34 +116,34 @@ https://www.figma.com/design/IsuGRdMmtuFW54bjVKJ3cV/Smart-Travel?node-id=0-1&t=3
 # 🖼️ Wireframes
 
 ## Home Page
-![Wireframe](images/1.png)
+![Wireframe](docs/images/1.png)
 
 ## Busca
-![Wireframe](images/2.png)
+![Wireframe](docs/images/2.png)
 
 ## Roteiro
-![Wireframe](images/3.png)
+![Wireframe](docs/images/3.png)
 
 ## Avaliações
-![Wireframe](images/4.png)
+![Wireframe](docs/images/4.png)
 
 ## Login
-![Wireframe](images/5.png)
+![Wireframe](docs/images/5.png)
 
 ## Cadastro
-![Wireframe](images/6.png)
+![Wireframe](docs/images/6.png)
 
 ## Perfil
-![Wireframe](images/14.png)
+![Wireframe](docs/images/14.png)
 
 ## Personalização
-![Wireframe](images/10.png)
+![Wireframe](docs/images/10.png)
 
 ## Criação de Roteiro
-![Wireframe](images/11.png)
+![Wireframe](docs/images/11.png)
 
 ## Detalhes do Roteiro
-![Wireframe](images/12.png)
+![Wireframe](docs/images/12.png)
 
 ---
 
