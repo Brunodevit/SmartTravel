@@ -98,13 +98,12 @@ Modernização da interface com foco em componentização, responsividade e manu
 
 # 🧭 Estrutura do projeto
 
-- Contexto → docs/1-Contexto.md  
-- Especificações → docs/2-Especificação.md  
-- Interface → docs/3-Interface.md  
-- Implementação → docs/4-Implementação.md  
-- Conclusão → docs/5-Conclusão.md  
-- Apresentação → docs/apresentacao/README.md  
-
+- Contexto → [docs/1-Contexto.md](docs/1-Contexto.md)
+- Especificações → [docs/2-Especificação.md](docs/2-Especificação.md)
+- Interface → [docs/3-Interface.md](docs/3-Interface.md)
+- Implementação → [docs/4-Implementação.md](docs/4-Implementação.md)
+- Conclusão → [docs/5-Conclusão.md](docs/5-Conclusão.md)
+- Apresentação → [docs/apresentacao/README.md](docs/apresentacao/README.md)
 ---
 
 # 🌐 Protótipo (Figma)
