@@ -39,9 +39,3 @@ build/
 # =========================
 .DS_Store
 Thumbs.db
-
-# =========================
-# JSON Server (se quiser ignorar banco local)
-# =========================
-src/db/*.json
-db/*.json
